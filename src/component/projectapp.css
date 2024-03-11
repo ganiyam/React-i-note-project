@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+/* Login, Signup */
+.box1 {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    border: 1px solid #ddd;
+    line-height: 30px;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+
+.ipbox{
+    width: 30vh;
+    height: 5vh;
+    background-color: #f6f6f6;
+    border: none;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.warning{
+    color: red;
+    font-size: 13px;
+}
+
+.check-msg {
+    display: block;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+
+  /* mainpage css */
+
+
+.navbar{
+    height: 90px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+}
+
+.navlink{
+    width: 100px;
+    text-align: center;
+}
+
+.header{
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+#topcontainer{
+    text-align: center;
+}
+
+
